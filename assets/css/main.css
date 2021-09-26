@@ -33,6 +33,10 @@ body {
 	line-height: 1;
 }
 
+footer_custom {
+	position: fixed;
+}
+
 ol, ul {
 	list-style: none;
 }
